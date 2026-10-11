@@ -46,7 +46,7 @@ GOOGLE_API_KEY=your_google_gemini_api_key
 **4. Run the application**
 
 ```bash
-streamlit run app.py
+streamlit run GUIapp.py
 ```
 
 ## How It Works
