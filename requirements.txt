@@ -1,0 +1,56 @@
+# =========================
+# LangChain Core
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain_huggingface
+
+# =========================
+# Mistral AI
+# =========================
+langchain-mistralai
+mistralai
+
+# =========================
+# Vector Database
+# =========================
+langchain-chroma
+chromadb
+
+# =========================
+# Document Loading
+# =========================
+pypdf
+python-docx
+beautifulsoup4
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# Numerical / ML Utilities
+# =========================
+numpy
+scikit-learn
+
+# =========================
+# HTTP / Web
+# =========================
+requests
+
+# =========================
+# Optional: Tokenization
+# =========================
+tiktoken
+
+# =========================
+# Optional: LangChain Monitoring
+# =========================
+langsmith
+
+#others
+sentence_transformers
